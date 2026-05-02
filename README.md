@@ -1,7 +1,17 @@
 Some [`EDOPro`](https://projectignis.github.io/index.html/) skins that I like and whose sources I could not find.
 See [here](https://github.com/Lahrenheit/EDOPRO-Skinpack/), [here](https://github.com/josevdr95new/EDOPro-SkinLibrary/) and [here](https://github.com/sefeiba/edopro-project-ignis-theme/) for other cool ones.
 
-# Usage
+# Download
+
+Add this entry to the `repos` field of `<edopro-dir>/config/user_configs.json`, where `edopro-dir` is the directory containing the executable `EDOPro`:
+
+    {
+     	"url": "https://github.com/fopancaldi/edopro_custom_skins",
+      	"repo_name": "fopancaldi's favourite custom skins",
+     	"repo_path": "./skin/",
+     	"should_update": true,
+     	"should_read": true
+    }
 
 # Disclaimer
 
